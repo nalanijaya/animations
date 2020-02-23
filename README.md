@@ -1,4 +1,4 @@
-# This is basic example and an output of SVG animations with CSSanimations
+# This is basic example and an output of SVG animations with CSS
 Reference:
    You tube channel Dev Ed : https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q 
 
